@@ -1,2 +1,1 @@
-# companion-gpt1
-The AI Modal Companion GPT-1 Project
+# The Enterprise Companion GPT Modal
