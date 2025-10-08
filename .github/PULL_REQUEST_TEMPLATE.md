@@ -1,6 +1,6 @@
 # Pull Request
 
-Thank you for contributing to **Company Website**!  
+Thank you for contributing to **AI Modal**!  
 Please fill out the following information to help us review your changes effectively.
 
 ---

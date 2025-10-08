@@ -1,6 +1,6 @@
-# Commercial Use of Company Website
+# Commercial Use of AI Modal
 
-Company Website is released under the [GNU Affero General Public License v3.0 (AGPLv3)](https://www.gnu.org/licenses/agpl-3.0.html).
+Company Website is released under the Apache 2.0 licence [licence](LICENSE)
 
 ## ✅ What You Can Do
 
@@ -11,16 +11,16 @@ Company Website is released under the [GNU Affero General Public License v3.0 (A
 
 You **must contact Sky Genesis Enterprise** and obtain a commercial license **if you plan to**:
 
-- Offer Company Website as a paid or free SaaS (Software-as-a-Service) product.
-- Bundle Company Website into a commercial product or platform.
-- Use Company Website in a business context without open-sourcing your modifications and dependencies (as required by AGPLv3).
-- Require a proprietary license or want to avoid the AGPLv3 copyleft obligations.
+- Offer AI Modal as a paid or free SaaS (Software-as-a-Service) product.
+- Bundle AI Modal into a commercial product or platform.
+- Use AI Modal in a business context without open-sourcing your modifications and dependencies (as required by Apache 2.0 licence).
+- Require a proprietary license or want to avoid the Apache 2.0 licence copyleft obligations.
 
 ## 🧾 Why a Commercial License?
 
 We want to support sustainable open-source development while offering flexibility to businesses. A commercial license:
 
-- Removes the copyleft obligations of AGPLv3.
+- Removes the copyleft obligations of Apache 2.0 licence.
 - Allows proprietary modifications and closed SaaS usage.
 - Grants access to premium features (if available).
 - Includes professional support and onboarding options.
