@@ -3,4 +3,12 @@ name = "companion-gpt"
 version = "0.1.0"
 edition = "2024"
 
+[lib]
+name = "companion_gpt"
+crate-type = ["cdylib"]
+
 [dependencies]
+pyo3 = { version = "0.21", features = ["extension-module"] }
+numpy = "0.21"
+ndarray = "0.15"
+rand = "0.8"
